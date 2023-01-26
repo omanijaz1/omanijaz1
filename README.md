@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omanijaz
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning new programming languages
+- 👀 I’m interested in malicious coding
+- 🌱 I’m currently learning new cyber defense tech
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me oijaz1@students.towson.edu
 
